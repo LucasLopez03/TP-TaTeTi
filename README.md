@@ -1,1 +1,1 @@
-Proyecto Demo utilizado en el Taller de Firebase de la Tecnicatura en Programación (Orientación Mobile) de UNLAM.
+Trabajo Práctico de Taller de Diseño de la UNLAM.
