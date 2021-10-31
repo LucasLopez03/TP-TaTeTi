@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "621956263359",
-    "project_id": "tateti-3f78c",
-    "storage_bucket": "tateti-3f78c.appspot.com"
+    "project_number": "461989684680",
+    "firebase_url": "https://tateti-490ee-default-rtdb.firebaseio.com",
+    "project_id": "tateti-490ee",
+    "storage_bucket": "tateti-490ee.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:621956263359:android:bd1696e73412e94fe3850a",
+        "mobilesdk_app_id": "1:461989684680:android:6eeb9e06a0f04cd165ccfd",
         "android_client_info": {
           "package_name": "ar.com.develup.tateti"
         }
       },
       "oauth_client": [
         {
-          "client_id": "621956263359-5182c30k9sm8gok8t31ocha2pevftdbt.apps.googleusercontent.com",
+          "client_id": "461989684680-indivkbsij4d7ecknteugrefh41c2t8m.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyChIFiy7xD_ypaq8DWIWS0SnVelk6jQpWY"
+          "current_key": "AIzaSyC5d0kDMecYHPQAnvSGk23WzVOij0kehXM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "621956263359-5182c30k9sm8gok8t31ocha2pevftdbt.apps.googleusercontent.com",
+              "client_id": "461989684680-indivkbsij4d7ecknteugrefh41c2t8m.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

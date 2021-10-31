@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/luki_/AndroidStudioProjects/TP_TaTeTi_LucasLopez/app/src/main/res/layout/actividad_inicial.xml" value="0.1875" />
+        <entry key="..\:/Users/luki_/AndroidStudioProjects/TP_TaTeTi_LucasLopez/app/src/main/res/layout/actividad_partida.xml" value="0.1875" />
+        <entry key="..\:/Users/luki_/AndroidStudioProjects/TP_TaTeTi_LucasLopez/app/src/main/res/layout/actividad_partidas.xml" value="0.1875" />
+        <entry key="..\:/Users/luki_/AndroidStudioProjects/TP_TaTeTi_LucasLopez/app/src/main/res/layout/item_partida.xml" value="0.1875" />
+        <entry key="..\:/Users/luki_/AndroidStudioProjects/TP_tateti-firebase/app/src/main/res/layout/actividad_inicial.xml" value="0.17300724637681159" />
         <entry key="..\:/Users/luki_/AndroidStudioProjects/TP_tateti-firebase/app/src/main/res/layout/actividad_partida.xml" value="0.17481884057971014" />
         <entry key="..\:/Users/luki_/AndroidStudioProjects/TP_tateti-firebase/app/src/main/res/layout/actividad_registracion.xml" value="0.17481884057971014" />
         <entry key="..\:/Users/luki_/AndroidStudioProjects/TP_tateti-firebase/app/src/main/res/layout/item_partida.xml" value="0.17481884057971014" />

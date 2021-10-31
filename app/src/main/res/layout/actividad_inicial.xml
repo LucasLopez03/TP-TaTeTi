@@ -47,4 +47,11 @@
         android:layout_height="wrap_content"
         android:text="Registrate"/>
 
+    <Button
+        android:id="@+id/btnError"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Forzado error"
+        android:visibility="invisible"/>
+
 </LinearLayout>
